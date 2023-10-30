@@ -271,9 +271,9 @@ label:nth-of-type(3) {
 
 .untoldcoding {
   background-color: #000000;
-  padding: 20px;
+  padding: 5px;
   color: #fffafa;
-  font-size: 15px;
+  font-size: 10px;
   font-weight: 500;
   border: 1px solid rgb(13, 211, 214);
 }
